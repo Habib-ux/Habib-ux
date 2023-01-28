@@ -1,0 +1,4 @@
+katilimcilar = ["ahmet", "mehmet", "ali", "veli"]
+
+for x in katilimcilar: #"x" bir değişkendir#
+    print(x)
