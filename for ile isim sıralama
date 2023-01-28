@@ -1,0 +1,6 @@
+kulanıcılar = ["ahmet", "mehmet", "ali", "veli"]
+kulllanıcı_sayısı = 0
+
+for x in kulanıcılar:
+    kulllanıcı_sayısı += 1
+    print(kulllanıcı_sayısı, x)
