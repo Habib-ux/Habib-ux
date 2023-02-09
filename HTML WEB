@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ibonun nenesi misss</title>
+    <link rel="stylesheet" href="CSS/örnek.css">
+    <style>
+    .a {
+    background-color: black;
+    width: 300px;
+    height: 450px;
+    float: left;
+    border-radius: 30px;
+    margin: 70px;
+}
+.b {
+    background-color: red;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    margin: 70px;
+}
+.c {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+.d {
+    background-color: grey;
+    float:left;
+    width: 300px;
+    height: 450px;
+    margin: 70px;
+    border-radius: 30px;
+}
+.e {
+    background-color: black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 70px;
+}
+.f {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.h {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    top: 100px;
+}
+.g {
+    background-color: red;
+    width: 300px;
+    height: 450px;
+    float: left;
+    border-radius: 30px;
+    margin: 70px;
+}
+.k {
+    background-color: grey;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 70px;
+}
+.l {
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    top: 100px;
+}
+h1 {
+     color: black;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, sans-serif;
+     text-align: center;
+} 
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+    </sytle>
+</head>
+<body>
+    <a href="https://www.dailymotion.com/video/x8ct1h5" target="_blank">
+        <div class="a">
+            <div class="b">
+                <img src="/indir (1).jpg" alt="">
+            </div>
+            <h2 class="c">Recep İvedik</h2>
+                <li class="c">boksör</li>
+                <li class="c">kimyager</li>
+                <li class="c">pro dansçı</li>
+                <li class="c">+500</li>
+        </div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=D5jfiEQhgMg" target="_blank">
+        <div class="d">
+             <div class="e"><img src="/indir.jpg" alt=""></div>
+                 <h2 class="h">Volkan Konak</h2>
+                     <li class="f">O Volkan konak</li>
+                     <li class="f">kuzeyin oğlu</li>
+                     <li class="f">pro sanatçı</li>
+             </div>
+    </a>
+    <a href="https://www.youtube.com/watch?v=5CJIeafortA" target="_blank">
+        <div class="g">
+            <div class="k"><img src="/images.jpg" alt="">
+            </div>
+            <h2 class="l">Ahmet Kaya</h2>
+            <li class="l">lvl1000 arabeskçi</li>
+            <li class="l">sehirlere bombalar yağarken dikkat</li>
+            <li class="l">eşşek sever</li>
+        </div>
+</body>
+</html>
